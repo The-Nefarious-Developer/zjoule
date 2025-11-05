@@ -1,5 +1,5 @@
 <h1 align="center">
-zJoule - ABAP Copilot
+<img src="assets/zjoule-icon.png" alt="Intro GIF" width="25"/> zjoule
 </h1>
 
 <div align="center">
